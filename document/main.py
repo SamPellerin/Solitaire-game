@@ -1,4 +1,4 @@
-# Auteurs: Samuel Pellerin (20265497) et Laurent Mercier (20150219).
+# Auteurs: Samuel Pellerin
 # Date: 1 décembre 2023.
 #
 # Ce programme constitue en une application Web qui implémente le jeu
