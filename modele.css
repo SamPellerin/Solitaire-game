@@ -1,0 +1,31 @@
+#main table {
+    float: left;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+#main table td {
+    padding: 0;
+    font-family: Helvetica;
+    text-align: center;
+    vertical-align: center;
+    border: 1px solid black;
+}
+
+#main table td {
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+}
+
+#main table td img {
+    display: block;
+    object-fit: contain;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+}
+
+#main table { float: none; }
+#main table td { border: 0; padding: 1px 2px; height: auto; }
+#main table td img { height: auto; }
